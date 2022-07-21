@@ -1,1 +1,2 @@
 Added this line directly in github repo
+Added a new line
