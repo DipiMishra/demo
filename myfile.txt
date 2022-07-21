@@ -1,6 +1,7 @@
 This is an empty file
 <<<<<<< HEAD
 modify this file and push to an update branch
+adding this line from local after adding below line from github web
 =======
 added one line from github web
 >>>>>>> refs/remotes/origin/master
